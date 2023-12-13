@@ -12,7 +12,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/gdkobrae/gdkobrae/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/Kobrae-San/Kobrae-San/devcard/devcard.svg"
     />
   </a>
 </div>
