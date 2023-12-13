@@ -1,14 +1,14 @@
 <h1>Hi there 👋</h1>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/heitzjulien/">
+  <a href="https://www.linkedin.com/in/dj%C3%A9dj%C3%A9-gboble-3100b1228">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%20"
       alt="Linkedin"
     />
   </a>
 
-  <a href="https://>app.daily.dev/gdkobrae" target="_blank">
+  <a href="https://app.daily.dev/gdkobrae" target="_blank">
     <img
       width="256"
       align="right"
