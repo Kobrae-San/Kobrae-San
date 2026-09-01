@@ -19,7 +19,7 @@
 
 ## I am Djédjé Gboble
 
-- 🏫 I'm currently a Student fot the web school Hetic
+- 🏫 I'm currently a Student for the web school Hetic
 - 💪 I'm currently looking for deploying project i made with my comrades from school to make job apply more powerful
 - 🧠 I'm currently learning React and TypeScript
 
